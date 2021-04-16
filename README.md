@@ -4,7 +4,7 @@ It contains two files. serverTCP.py and serverUDP.py
 ### To run
 #### For TCP:
 ```python serverTCP.py <portnumber>```
-This TCP server can be tested by going to localhost:portnumber
+This TCP server can be tested by going to localhost:portnumber in the browser
 
 #### For UDP:
 ```python serverUDP.py <portnumber>```
